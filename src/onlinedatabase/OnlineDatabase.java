@@ -20,6 +20,7 @@ public class OnlineDatabase
         SCUBEdatabase connct = new SCUBEdatabase();
 //        connct.getData();
         connct.insertData();
+        //comments added
     }
     
 }
